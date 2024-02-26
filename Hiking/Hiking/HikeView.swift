@@ -22,6 +22,9 @@ struct HikeView: View {
                     HikeCellView(hike: hike)
                 }
             }.navigationTitle("Hikes")
+                .navigationDestination(for: Hike.self) { hike in
+                    Text(hike.name)
+                }
         }
     }
 }
