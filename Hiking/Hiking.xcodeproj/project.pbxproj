@@ -12,6 +12,7 @@
 		F717151A2B8D46A900890DC2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F71715192B8D46A900890DC2 /* Preview Assets.xcassets */; };
 		F71715222B8D48DC00890DC2 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71715212B8D48DC00890DC2 /* Hike.swift */; };
 		F71715242B8D496300890DC2 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71715232B8D496300890DC2 /* HikeView.swift */; };
+		F71715262B8D54B800890DC2 /* HikeDetailScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71715252B8D54B800890DC2 /* HikeDetailScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		F71715192B8D46A900890DC2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F71715212B8D48DC00890DC2 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 		F71715232B8D496300890DC2 /* HikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
+		F71715252B8D54B800890DC2 /* HikeDetailScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetailScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				F71715122B8D46A600890DC2 /* HikingApp.swift */,
 				F71715162B8D46A900890DC2 /* Assets.xcassets */,
 				F71715182B8D46A900890DC2 /* Preview Content */,
+				F71715252B8D54B800890DC2 /* HikeDetailScreen.swift */,
 			);
 			path = Hiking;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F71715222B8D48DC00890DC2 /* Hike.swift in Sources */,
+				F71715262B8D54B800890DC2 /* HikeDetailScreen.swift in Sources */,
 				F71715242B8D496300890DC2 /* HikeView.swift in Sources */,
 				F71715132B8D46A600890DC2 /* HikingApp.swift in Sources */,
 			);
