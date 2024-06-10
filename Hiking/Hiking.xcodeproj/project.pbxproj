@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F701B1912C1783B900EFB9D7 /* HikeCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F701B1902C1783B900EFB9D7 /* HikeCellView.swift */; };
 		F71715132B8D46A600890DC2 /* HikingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71715122B8D46A600890DC2 /* HikingApp.swift */; };
 		F71715172B8D46A900890DC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F71715162B8D46A900890DC2 /* Assets.xcassets */; };
 		F717151A2B8D46A900890DC2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F71715192B8D46A900890DC2 /* Preview Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F701B1902C1783B900EFB9D7 /* HikeCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeCellView.swift; sourceTree = "<group>"; };
 		F717150F2B8D46A600890DC2 /* Hiking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hiking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F71715122B8D46A600890DC2 /* HikingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikingApp.swift; sourceTree = "<group>"; };
 		F71715162B8D46A900890DC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				F71715202B8D48AA00890DC2 /* Models */,
 				F71715232B8D496300890DC2 /* HikeView.swift */,
+				F701B1902C1783B900EFB9D7 /* HikeCellView.swift */,
 				F71715122B8D46A600890DC2 /* HikingApp.swift */,
 				F71715162B8D46A900890DC2 /* Assets.xcassets */,
 				F71715182B8D46A900890DC2 /* Preview Content */,
@@ -155,6 +158,7 @@
 				F71715262B8D54B800890DC2 /* HikeDetailScreen.swift in Sources */,
 				F71715242B8D496300890DC2 /* HikeView.swift in Sources */,
 				F71715132B8D46A600890DC2 /* HikingApp.swift in Sources */,
+				F701B1912C1783B900EFB9D7 /* HikeCellView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
